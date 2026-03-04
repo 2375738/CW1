@@ -1,0 +1,14 @@
+# Workspace/editor
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Flutter/Dart tool caches (if created at repo root)
+.dart_tool/
+.packages
+.pub/
+
+# Build outputs
+build/
