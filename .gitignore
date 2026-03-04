@@ -12,3 +12,6 @@ Thumbs.db
 
 # Build outputs
 build/
+
+# Local archives
+*.zip

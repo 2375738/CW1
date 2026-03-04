@@ -121,6 +121,7 @@
 - Initialized git repository at `CW1` to enable project-wide version control.
 - Added root `.gitignore` for editor/OS/build artifacts.
 - Updated `IMPLEMENTATION_PLAN.md` to record repository version-control bootstrap as Done.
+- Added `*.zip` ignore rule and removed large archive from git history to satisfy GitHub file-size limits for first push.
 ## 2026-02-07
 - Updated shopping item reassignment to remove the item from the current list and create a new shopping task for the assignee (with notification).
 ## 2026-02-07
